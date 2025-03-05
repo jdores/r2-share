@@ -8,7 +8,7 @@
 	},
   "r2_buckets": [
     {
-      "binding": "MY_BUCKET",
+      "binding": "FILES_BUCKET",
       "bucket_name": "r2-share"
     }
   ],
